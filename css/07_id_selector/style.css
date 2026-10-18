@@ -1,0 +1,8 @@
+/*to select a peticular id insted of element and set a attribute to id*/
+
+#login{
+    background-color: green;
+}
+#signup{
+    background-color: yellow;
+}

@@ -1,0 +1,5 @@
+pixels=-
+most commonly used absolute unit
+96px = 1 inch
+not suitable for responsive websites(means mobile size tab size )
+font-size:50px;
