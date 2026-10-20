@@ -13,9 +13,7 @@ div:nth-of-type(2n){
     background-color: yellow;
 }
 
-div:nth-of-type(3n){
-    background-color: orange;
-}
+
 
 /*transform*/
 #first{
