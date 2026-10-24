@@ -22,6 +22,8 @@ div:nth-of-type(3n){
     transform: rotate(180deg);
 }
 
+/*just kidding*/
+
 /*Scale*/
 #two{
     transform: scaleX(0.5);
